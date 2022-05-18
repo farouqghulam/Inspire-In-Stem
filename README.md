@@ -9,7 +9,7 @@ https://www.python.org/downloads/
 add a link to downloading vs code
 
 add a link to downloading git for windows
-[./image/lesson1.png]
+[./image/lesson1.PNG]
 
 string
 replace
