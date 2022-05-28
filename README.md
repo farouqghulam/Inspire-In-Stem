@@ -1,4 +1,14 @@
 # Inspire-In-Stem
+#GIT COMMANDS
+...................
+#git add *
+git add lessom...
+git commit -m "..........."
+git branch -m main
+git config --global user.name "............."
+git config --global user.email "............."
+git remote add main
+git push main
 
 ## week one:introduction to Python
 Day 1 : Installing Python
