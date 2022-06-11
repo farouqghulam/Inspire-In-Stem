@@ -1,0 +1,8 @@
+This is a normal text file, python is fun
+learning python is super 
+today is a chilly day
+
+read line .readfile()
+tell .tell()
+seek .seek()
+read .read()

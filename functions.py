@@ -40,12 +40,14 @@
 # add_numbers (10,410)  
 # add_numbers (100,10)  
 
-def prod_numbers (x,y):
-    prod_nums = x * y
-    print("product of numbers :",prod_nums)
+# def prod_numbers (x,y):
+#     prod_nums = x * y
+#     print("product of numbers :",prod_nums)
 
 
-prod_numbers (10,77)    
-prod_numbers (10,1)  
-prod_numbers (10,10)  
-prod_numbers (100,10)     
+# prod_numbers (10,77)    
+# prod_numbers (10,1)  
+# prod_numbers (10,10)  
+# prod_numbers (100,10)     
+
+for number in range
